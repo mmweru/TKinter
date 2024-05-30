@@ -37,4 +37,7 @@ entry.grid(row=3, column=3)
 # input.pack()
 # print(input.get())
 
+m_entry = tkinter.Entry()
+m_entry.grid(row=0, column=3)
+
 window.mainloop()
